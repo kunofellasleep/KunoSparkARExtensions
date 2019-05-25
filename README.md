@@ -4,7 +4,7 @@ Some useful Group-patches for Spark AR Studio.
 
 Requirements
 ------------
-- Spark AR Studio v60 or later
+- Spark AR Studio v60 or later (Beta is not supported)
 
 Usage
 -----
