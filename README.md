@@ -4,14 +4,14 @@ Some useful Group-patches for Spark AR Studio.
 
 Requirements
 ------------
-- Spark AR Studio v60 or later (Beta is not supported)
+- Spark AR Studio v68 or later
 
 Usage
 -----
-1. Download [SparkARExtensions-1.0.0.zip](https://github.com/kunofellasleep/SparkARExtensions/files/3219237/SparkARExtensions-1.0.0.zip)   
+1. Download [SparkARExtensions-1.1.0.zip](https://github.com/kunofellasleep/SparkARExtensions/releases/download/v1.1.0/SparkARExtensions-1.1.0.zip)   
 2. Drag and drop the .arp files you want to use into your project.
 
-Group-Patches (v1.0.0)
+Group-Patches (v1.1.0)
 ----------------------
 
 ### Color Adjustment
@@ -21,7 +21,9 @@ Group-Patches (v1.0.0)
 - Saturation Adjustment
 
 ### Color Effect
+- Chromatic Aberration Effect (new)
 - Duotone Effect
+- Edge Detector Effect (new)
 - Invert Effect
 - Monochrome Effect
 - Pixellate Effect
@@ -32,15 +34,6 @@ Group-Patches (v1.0.0)
 ### Face Effect
 - Fill Eyes Effect
 - Fade Edge Effect
-
-### Easing
-- Circular In, Out
-- Cubic In, Out
-- Quadratic In, Out
-- Quartic In, Out
-- Quintic In, Out
-- Sinusoidal In, Out
-
 
 License
 -------
