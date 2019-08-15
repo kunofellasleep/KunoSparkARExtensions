@@ -11,7 +11,7 @@ Usage
 1. Download [SparkARExtensions-1.1.0.zip](https://github.com/kunofellasleep/SparkARExtensions/releases/download/v1.1.0/SparkARExtensions-1.1.0.zip)   
 2. Drag and drop the .arp files you want to use into your project.
 
-Group-Patches (v1.1.0)
+Extension-Patches (v1.1.0)
 ----------------------
 
 ### Color Adjustment
